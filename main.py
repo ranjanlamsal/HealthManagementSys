@@ -39,7 +39,7 @@ def in_food(user_name):
     any details then creates a new file for that user otherwise update the old one"""
     global details
     try:
-        open(f"{user_name}{purpose}.txt")
+        #open(f"{user_name}{purpose}.txt")
         details = input("Write the name and amount of food.\n>>").title()
         f = open(f"{user_name}{purpose}.txt", "a")
         f.write(f"Food : {details} at {getdate()}\n")
@@ -77,7 +77,7 @@ def in_exe(user_name):
     try:
         open(f"{user_name}{purpose}.txt")
         details = input("Write the name of exercise performed.\n>>").title()
-        f = open(f"{user_name}{purpose}.txt", "a")
+        #f = open(f"{user_name}{purpose}.txt", "a")
         f.write(f"Exercise : {details} at {getdate()}\n")
         f.close()
         print("Exercise details added. 😀\n")
