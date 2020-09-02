@@ -1,0 +1,7 @@
+Name : Ranjana
+Age: 24
+Weight : 47.5
+Time of registration: 2020-09-01 16:43:13.316467
+
+
+Food : Chowmin (1P) at 2020-09-01 16:43:38.288220

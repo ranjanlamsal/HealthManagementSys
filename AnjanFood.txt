@@ -1,0 +1,6 @@
+Name : Anjan
+Age: 19
+Weight : 70
+Time of registration: 2020-09-01 18:28:37.000210
+
+

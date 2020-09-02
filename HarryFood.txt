@@ -1,0 +1,7 @@
+Name : Harry
+Age: 33
+Weight : 80
+Time of registration: 2020-09-01 17:34:21.899616
+
+
+Food : Roti at 2020-09-01 17:34:45.729468

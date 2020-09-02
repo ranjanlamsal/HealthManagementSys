@@ -1,0 +1,8 @@
+Name : Ranjan
+Age: 20
+Weight : 68
+Time of registration: 2020-09-01 13:09:23.941872
+
+
+Food : Dal at 2020-09-01 13:09:51.497141y
+

@@ -1,0 +1,6 @@
+Name : Ranjan
+Age: 20
+Weight : 68
+Time of registration: 2020-09-01 18:27:58.886396
+
+

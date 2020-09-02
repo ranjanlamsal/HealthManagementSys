@@ -1,0 +1,6 @@
+Name : Harry
+Age: 33
+Weight : 80
+Time of registration: 2020-09-01 18:23:26.897282
+
+
